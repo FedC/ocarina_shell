@@ -13,7 +13,7 @@
 ***** Package files
 	--- README.txt			Development information
 	--- GUIDE.txt			User instructions for compilation and execution
-	--- Project3.c			Source Code
+	--- ocarina.c			Source Code
 	--- Makefile			Compilation dependables make file
 	
 ***** Highlights and idioms
