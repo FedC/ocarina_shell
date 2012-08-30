@@ -1,0 +1,33 @@
+					 ****************************
+						    OCARINA
+					******************************
+					  Written by Federico Commisso
+		    				UF ID: 3099-6552
+	 				 http://cise.ufl.edu/~commisso
+		 			   	fcommisso@ufl.edu
+
+	##############################################################################################
+
+						   USER GUIDE
+
+COMPILATION:
+
+1. Browse to directory where ocarina.c and Makefile lies (note: both must live in the same dir)
+
+2. run 'make' in command prompt
+
+3. run './ocarina' in command prompt
+
+
+
+MANUAL:
+
+User can execute any external commands that lie in either of the following directories:
+$HOME/bin 	(user's home directory's subdirectory bin)
+/usr/local/bin 
+/bin 
+/usr/bin 
+/usr/ucb
+.		(current working directory)
+
+To exit out of the prompt, type 'exit'
